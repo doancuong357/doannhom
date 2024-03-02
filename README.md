@@ -23,12 +23,7 @@ import java.util.ArrayList;
 			this.entryDate = "";
 			this.price = 0;
 			this.num = 0;
-		
-			this.tvID = "";
-			this.manifacturer = "";
-			this.entryDate = "";
-			this.price = 0;
-			this.num = 0;
+
 		}
 	                 public String getTvID() {
 			return tvID;
